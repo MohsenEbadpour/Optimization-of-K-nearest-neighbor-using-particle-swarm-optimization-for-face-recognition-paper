@@ -35,7 +35,7 @@ This code is inspired by the paper "Optimization of K-Nearest Neighbor using Par
 
 ## License
 
-This project is licensed under the GPL-3.0 License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GPL-3.0 License.
 
 ## Information
 

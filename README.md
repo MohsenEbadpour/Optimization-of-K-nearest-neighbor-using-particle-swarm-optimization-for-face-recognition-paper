@@ -31,7 +31,7 @@ Once you have installed the required libraries, you can run the Jupyter notebook
 
 ## Credits
 
-This code is inspired by the paper "Optimization of K-Nearest Neighbor using Particle Swarm Optimization for Face Recognition" by XYZ et al.
+This code is inspired by the paper "Optimization of K-Nearest Neighbor using Particle Swarm Optimization for Face Recognition" by K. Sasirekha et al.
 
 ## License
 
